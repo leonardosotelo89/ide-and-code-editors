@@ -1,0 +1,5 @@
+acode 
+
+java n-ide //build apk
+codeassist //build apk
+mit app inventor //build apk
